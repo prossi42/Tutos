@@ -1,0 +1,22 @@
+Addition / soustraction :
+
+Vecteur V (x,y,z)
+Vecteur U (x,y,z)
+Vecteur VU (x+x,y+y,z+z)
+
+Multiplication Vecteur avec un reel :
+
+Vecteur V (x,y,z)
+Reel (2)
+
+Vecteur V (x * 2, y * 2, z * 2)
+
+Produit scalaire (crossproduct) de deux vecteurs :
+
+Vecteur V (x,y,z)
+Vecteur U (x,y,z)
+Vecteur W = V ^ U
+
+Wx = (Vy * Uz) + (Vz * Uy)
+Wy = (Vx * Uz) + (Vz * Ux)
+Wz = (Vy * Ux) + (Vx * Uy)
