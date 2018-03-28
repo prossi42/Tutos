@@ -1,0 +1,3 @@
+while true ; do echo "Corp du mail" | mail -s "Objet du mail" -- adresse@email.com ; sleep 60 ; done
+
+Changer le sleep pour augmenter la frequence d envoi du mail
